@@ -1,0 +1,15 @@
+.hero-unit > h1 {
+  color: red;
+}
+
+h1.hasFirst {
+  color: yellow;
+}
+
+h1.hasLast {
+  color: blue;
+}
+
+h1.hasFirst.hasLast {
+  color: green;
+}    
