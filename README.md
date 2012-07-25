@@ -6,10 +6,18 @@ instead of filling your view elements with complex data-bind attributes.
 
 DEMO: http://vic.github.com/knockout-jqueryBindingProvider
 
+### Dependencies
 
+```html
+<script src="jquery.js"></script>
+<script src="knockout.js"></script>
+<script src="knockout-jqueryBindingProvider.js"></script>
+```
+
+### Usage
 ```javascript
 
-  // having a view model like this
+  //  having a view model like this
   var viewModel = {
     firstName: ko.observable(),
     lastName: ko.observable()
