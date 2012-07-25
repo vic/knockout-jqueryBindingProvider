@@ -1,4 +1,6 @@
-knockout-jqueryBindingProvider
-==============================
+Knockout jQuery binding provider.
+=================================
 
-A binding provider for knockoutjs bind data without using data-bind on views.
+DEMO: http://vic.github.com/knockout-jqueryBindingProvider
+
+
